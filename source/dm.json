@@ -1,6 +1,15 @@
 {
-  "name": "Dmitruk token",
+  "name": "DmitrukToken",
   "symbol": "DMT",
   "description": "Some super interesting info about this token",
-  "image": "https://github.com/KirillKurril/tofd/blob/main/source/coin.png?raw=true"
+  "image": "https://github.com/KirillKurril/tofd/blob/main/source/coin.png?raw=true",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/KirillKurril/tofd/blob/main/source/coin.png?raw=true",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }

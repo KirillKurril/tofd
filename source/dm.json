@@ -1,7 +1,6 @@
 {
-  "name": "Dmitruk Coin",
-  "symbol": "DM",
-  "description": "Utility token for lab2 demos",
-  "image": "https://example.com/logo.png",
-  "attributes": [{"trait_type": "Edition", "value": "2025"}]
+  "name": "Dmitruk token",
+  "symbol": "DMT",
+  "description": "Some super interesting info about this token",
+  "image": "https://github.com/KirillKurril/tofd/blob/main/source/coin.png?raw=true"
 }
